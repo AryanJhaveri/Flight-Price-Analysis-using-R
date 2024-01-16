@@ -3,7 +3,7 @@
 ## Main Objective
 In this project, I dive into what affects flight prices. I aim to give travelers useful tips and anyone interested in data a peek into how airline pricing works. Using techniques  such as *linear regression, correlation test, pairwise-t test, global F test, ANOVA, hypothesis testing, ANCOVA and two way ANOVA*, I uncover why flight prices change based on things like how long the flight is, how many stops it has, which airline you choose, and when you book.
 
-Code: [flight-analysis](flight_price_analysis)
+Code: [flight-analysis](flight_price_analysis.R)
 
 ## Detailed Analysis
 
