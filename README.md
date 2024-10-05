@@ -6,7 +6,7 @@ In the competitive world of air travel, understanding the factors that influence
 
 This project dives deep into analyzing these factors using real-world flight data to uncover key insights that can help users and businesses alike understand the underlying trends in flight pricing.
 
-The analysis leverages linear regression, ANOVA, and various visualizations to identify relationships between flight duration, stops, airline, departure and arrival times, and flight prices.
+The analysis leverages **linear regression**, **ANOVA**, and various **visualizations** to identify relationships between **flight duration**, **stops**, **airline**, **departure and arrival times**, and **flight prices**.
 
 ## Table of Contents
 
@@ -25,12 +25,12 @@ The analysis leverages linear regression, ANOVA, and various visualizations to i
 ## Data Overview
 
 This project uses a flight dataset that includes various features such as:
-- Flight duration
-- Number of stops
-- Price
-- Airline
-- Departure and arrival times
-- Days left until departure
+- **Flight duration**
+- **Number of stops**
+- **Price**
+- **Airline**
+- **Departure and arrival times**
+- **Days left until departure**
 
 You can find the data [here](https://www.kaggle.com/datasets/gabrielsantello/advertisement-click-on-ad).
 
